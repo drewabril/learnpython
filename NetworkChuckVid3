@@ -1,0 +1,28 @@
+name = "Drew"
+
+age = 32
+
+actual_age = 32.74
+
+print(name, "\n", age)
+
+
+print(type(age))
+
+print(type(name))
+
+print(type(actual_age))
+
+print(age + actual_age)
+
+#exponents are **
+print(4 ** 2)
+
+
+math = 6 ** 2
+math2 = age * actual_age
+
+print("math:",math, "math2:", math2, sep= '\n')
+
+
+
